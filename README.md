@@ -27,12 +27,4 @@ src="https://img.shields.io/github/followers/dennisandrew?logo=github&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dennisandrew"><img src="https://github-readme-stats.vercel.app/api?username=dennisandrew&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dennisandrew's GitHub stats" /></a>
-
 <a href="http://www.github.com/dennisandrew"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dennisandrew&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/dennisandrew/EasyWeather" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisandrew&repo=EasyWeather&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/dennisandrew/StockMarketApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisandrew&repo=StockMarketApp&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
