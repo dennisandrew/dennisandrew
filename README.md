@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Android Developer
 ------------------------
 
-I've been studying the android development process for over a year, have experience in developing Clean Architecture, SOLID, MVVM/MVI mobile applications. I like to solve non-standard tasks and work with modern technology stack.
+I am an Android developer with over a year of experience in mobile application development. I have expertise in Clean Architecture, SOLID principles, and MVVM/MVI design patterns and enjoy tackling challenging tasks using modern technology stacks. My experience and skills enable me to solve complex problems and provide effective solutions. My focus on developing innovative, user-friendly solutions has driven me to continuously improve my skills and knowledge in this field. I strive to work collaboratively with team members to deliver high-quality applications on time.
 
 * ✉️  You can contact me at [https://t.me/mr\_invict](mailto:https://t.me/mr_invict)
 * 🚀  I'm currently working on [EasyWeather](http://github.com/dennisandrew/EasyWeather)
