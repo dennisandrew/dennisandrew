@@ -34,4 +34,4 @@ src="https://img.shields.io/github/followers/dennisandrew?logo=github&style=for-
 
 ### Badges
 
-<a href="http://www.github.com/dennisandrew"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dennisandrew&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dennisandrew&theme=highcontrast&ring=7FFF00&fire=7FFF00&currStreakLabel=8A2BE2&currStreakNum=8A2BE2)](https://git.io/streak-stats)
